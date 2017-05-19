@@ -76,5 +76,20 @@ Even worse...
 * ops require/provide
 * Accretion could prevent a lot of client / service version hell
 
+## "This is Impossible / Impractical"
 
+* Nope
+* Many examples of decade+ compatibility
+ * Unix APIs
+ * Java
+ * HTML
+ * Clojure?
+* Compatibility a prereqisite of success?
 
+## What is We Never Broke Anything?
+
+* names become enduringly meaningful
+* orthogonal compatibility checking becomes possible
+* fine grained deps can be explored
+* use the latest with impunity
+* compose with impunity
