@@ -56,8 +56,8 @@ Even worse...
   * and the other 'semantics' are of little utility
 * What instead?
   * Maybe chronological versioning?
-   * YYYYMMDD.HHMMSS
-   * Conveys more and supports some forms of relativism
+    * YYYYMMDD.HHMMSS
+    * Conveys more and supports some forms of relativism
 
 ## What about Git?
 
