@@ -228,7 +228,7 @@ Tasks
 
 ![JB1](./jb-01.JPG)
 ![JB2](./jb-02.JPG)
-![JW1](./jb-01.JPG)
-![JW2](./jb-02.JPG)
-![JW3](./jb-03.JPG)
-![JW4](./jb-04.JPG)
+![JW1](./jw-01.JPG)
+![JW2](./jw-02.JPG)
+![JW3](./jw-03.JPG)
+![JW4](./jw-04.JPG)
