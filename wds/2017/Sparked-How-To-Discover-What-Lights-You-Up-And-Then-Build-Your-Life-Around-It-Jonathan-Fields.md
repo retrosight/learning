@@ -206,7 +206,7 @@ Differences in these are often the expression of your sparks: Settings, Mission,
 * Value being valued.
   * Seen and acknowledged.
 
-Susan David: GLP Podcast Money vs. Matter
+Susan David: GLP Podcast Money vs. Matter: http://www.goodlifeproject.com/susan-david/
 
 ![Preferences, Contribution Traits and Sparks](./co-03.JPG)
 
