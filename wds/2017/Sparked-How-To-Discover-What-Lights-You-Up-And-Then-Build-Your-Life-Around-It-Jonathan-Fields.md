@@ -161,7 +161,7 @@ Differences in these are often the expression of your sparks: Settings, Mission,
 
 ## Purpose
 
-![In service of something bigger](./co-01.jpg)
+![In service of something bigger](https://github.com/retrosight/learning/blob/master/wds/2017/co-01.JPG)
 
 > "...in service of something **bigger than yourself** that takes a **substantial effort**..."
 
