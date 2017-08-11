@@ -161,7 +161,7 @@ Differences in these are often the expression of your sparks: Settings, Mission,
 
 ## Purpose
 
-![In service of something bigger](co-01.jpg)
+![In service of something bigger](./co-01.jpg)
 
 > "...in service of something **bigger than yourself** that takes a **substantial effort**..."
 
