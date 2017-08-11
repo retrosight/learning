@@ -208,7 +208,7 @@ Differences in these are often the expression of your sparks: Settings, Mission,
 
 Susan David: GLP Podcast Money vs. Matter
 
-![Preferences, Contribution Traits and Sparks](https://github.com/retrosight/learning/blob/master/wds/2017/co-03.JPG)
+![Preferences, Contribution Traits and Sparks](./co-03.JPG)
 
 ```
 Preferences   Contribution Traits      Sparks
@@ -220,15 +220,15 @@ Topics        Superpowers              Service
 Tasks
 ```
 
-![Align, Bigger, Effort, Purpose, Passion, Spark](https://github.com/retrosight/learning/blob/master/wds/2017/co-04.JPG)
+![Align, Bigger, Effort, Purpose, Passion, Spark](./co-04.JPG)
 
 "When you align who you are with what you do, in service of something bigger than yourself that takes a substantial effort, you step into a place of fully expressed purpose, passion and potential. You become SPARKED!" ~Jonathan Fields
 
 # Contributing Notes
 
-![JB1](https://github.com/retrosight/learning/blob/master/wds/2017/jb-01.jpg)
-![JB2](https://github.com/retrosight/learning/blob/master/wds/2017/jb-02.jpg)
-![JW1](https://github.com/retrosight/learning/blob/master/wds/2017/jb-01.jpg)
-![JW2](https://github.com/retrosight/learning/blob/master/wds/2017/jb-02.jpg)
-![JW3](https://github.com/retrosight/learning/blob/master/wds/2017/jb-03.jpg)
-![JW4](https://github.com/retrosight/learning/blob/master/wds/2017/jb-04.jpg)
+![JB1](./jb-01.JPG)
+![JB2](./jb-02.JPG)
+![JW1](./jb-01.JPG)
+![JW2](./jb-02.JPG)
+![JW3](./jb-03.JPG)
+![JW4](./jb-04.JPG)
