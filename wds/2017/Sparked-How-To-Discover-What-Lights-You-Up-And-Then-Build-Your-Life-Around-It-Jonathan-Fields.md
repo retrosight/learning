@@ -171,7 +171,7 @@ Differences in these are often the expression of your sparks: Settings, Mission,
 
 **Do not go nuclear.**
 
-![Do not go nuclear](https://github.com/retrosight/learning/blob/master/wds/2017/co-02.jpg)
+![Do not go nuclear](https://github.com/retrosight/learning/blob/master/wds/2017/co-02.JPG)
 
 ### Step One: Look at the work you already do.
 
