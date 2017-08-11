@@ -1,13 +1,16 @@
-Sparked: How To Discover What Lights You Up And Then Build Your Life Around It
-Jonathan Fields
+# Sparked: How To Discover What Lights You Up And Then Build Your Life Around It
 
-Milton Glaser, I ❤️ NY designer: "It was like the stigmata." at five years old. He knew he was here to make beauty in service to others.
+[Jonathan Fields](http://www.jonathanfields.com/)
+
+[World Domination Summit 2017](https://worlddominationsummit.com/)
+
+[Milton Glaser](https://en.wikipedia.org/wiki/Milton_Glaser), I ❤️ NY designer: "It was like the stigmata" at five years old. He knew he was here to make beauty in service to others. [https://www.youtube.com/watch?v=JD1bcGwa3QQ](https://www.youtube.com/watch?v=JD1bcGwa3QQ)
 
 1 in 100 have had a similar experience.
 
 The mythology of career is a lightning bolt and the world lifts them up as the example.
 
-"When you align who you are..."
+> "When you align who you are with what you do, in service of something bigger than yourself that takes a substantial effort, you step into a place of fully expressed purpose, passion and potential. You become SPARKED!" ~Jonathan Fields
 
 How do you align WHO you are with WHAT you do?
 
@@ -158,7 +161,7 @@ Differences in these are often the expression of your sparks: Settings, Mission,
 
 ## Purpose
 
-![In service of something bigger](./co-01.jpg)
+![In service of something bigger](co-01.jpg)
 
 > "...in service of something **bigger than yourself** that takes a **substantial effort**..."
 
