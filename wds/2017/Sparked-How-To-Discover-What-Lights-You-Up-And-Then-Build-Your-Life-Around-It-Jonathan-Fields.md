@@ -161,7 +161,7 @@ Differences in these are often the expression of your sparks: Settings, Mission,
 
 ## Purpose
 
-![In service of something bigger](https://github.com/retrosight/learning/blob/master/wds/2017/co-01.JPG)
+![In service of something bigger](./co-01.JPG)
 
 > "...in service of something **bigger than yourself** that takes a **substantial effort**..."
 
@@ -171,7 +171,7 @@ Differences in these are often the expression of your sparks: Settings, Mission,
 
 **Do not go nuclear.**
 
-![Do not go nuclear](https://github.com/retrosight/learning/blob/master/wds/2017/co-02.JPG)
+![Do not go nuclear](./co-02.JPG)
 
 ### Step One: Look at the work you already do.
 
@@ -208,7 +208,7 @@ Differences in these are often the expression of your sparks: Settings, Mission,
 
 Susan David: GLP Podcast Money vs. Matter
 
-![Preferences, Contribution Traits and Sparks](https://github.com/retrosight/learning/blob/master/wds/2017/co-03.jpg)
+![Preferences, Contribution Traits and Sparks](https://github.com/retrosight/learning/blob/master/wds/2017/co-03.JPG)
 
 ```
 Preferences   Contribution Traits      Sparks
@@ -220,7 +220,7 @@ Topics        Superpowers              Service
 Tasks
 ```
 
-![Align, Bigger, Effort, Purpose, Passion, Spark](https://github.com/retrosight/learning/blob/master/wds/2017/co-03.jpg)
+![Align, Bigger, Effort, Purpose, Passion, Spark](https://github.com/retrosight/learning/blob/master/wds/2017/co-04.JPG)
 
 "When you align who you are with what you do, in service of something bigger than yourself that takes a substantial effort, you step into a place of fully expressed purpose, passion and potential. You become SPARKED!" ~Jonathan Fields
 
