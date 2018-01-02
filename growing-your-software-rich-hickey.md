@@ -86,7 +86,7 @@ Even worse...
   * Clojure?
 * Compatibility a prereqisite of success?
 
-## What is We Never Broke Anything?
+## What if We Never Broke Anything?
 
 * names become enduringly meaningful
 * orthogonal compatibility checking becomes possible
