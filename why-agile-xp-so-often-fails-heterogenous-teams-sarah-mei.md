@@ -1,4 +1,4 @@
-# More on why agile/XP so often fails heterogenous teams
+# More on why agile / XP so often fails heterogenous teams
 
 by Sarah Mei
 with props to Betsy Haibel
@@ -7,7 +7,7 @@ with props to Betsy Haibel
 
 # Foreword
 
-https://twitter.com/betsythemuffin/status/990568867683500034
+[https://twitter.com/betsythemuffin/status/990568867683500034](https://twitter.com/betsythemuffin/status/990568867683500034)
 
 Remember that traditional Agile/XP/etc practices assume a homogeneous environment.
 
@@ -15,13 +15,13 @@ Indeed, the communication and mentorship patterns they rest on can only emerge o
 
 (And then come to @PearConf to rant about this with meeeeeee.)
 
-https://twitter.com/sarahmei/status/990594488052559874
+[https://twitter.com/sarahmei/status/990594488052559874](https://twitter.com/sarahmei/status/990594488052559874)
 
 Wondering why all the agile/XP stuff (like pairing, TDD, etc) doesn’t seem to work for a heterogenous team?
 
 It’s because they were developed by a bunch of white dudes. The practices  assume the practitioners all have A LOT of built-in privilege.
 
-https://twitter.com/sarahmei/status/990968833547497472
+[https://twitter.com/sarahmei/status/990968833547497472](https://twitter.com/sarahmei/status/990968833547497472)
 
 When I first did real (small-a) agile, at @pivotallabs circa 2009, it was clear to me almost immediately that this was the most powerful way to build software that I’d ever participated in.
 
