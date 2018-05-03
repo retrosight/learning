@@ -45,7 +45,7 @@ So let’s start with the obvious issues:
 
 * Very few people can pair that much. My job was essentially talking for 8 hours a day.
 * Many people can’t do a 9-6 fixed schedule. Parents, in particular, because no daycare place stays open past 6. This is ultimately why I left Pivotal.
-* Many people have motivators that don’t mesh well with this system, including pushing frontiers via  research-y code, being in solo ‘flow,’ & using new technology.
+* Many people have motivators that don’t mesh well with this system, including pushing frontiers via more research-y code, being in solo ‘flow,’ & using new technology.
 * Full-time pairing is hard across time zones. Having everyone in the same time zone is often unrealistic.
 
 That’s the obvious stuff. Most of it can be solved by employing small-a agile, rather than a program like scrum or XP, so that the process adapts to the needs of the team.
@@ -79,11 +79,11 @@ They're all usually on the downward side of one or _power dynamics_ in their pai
 
 Power dynamics in pairing is a subject that rarely comes up, at either the macro (community discussion) or micro (team discussion) levels. First let's talk about what a power dynamic is, and then we can look at how it manifests in a pair.
 
-A power dynamic is behavior in an interaction driven by a hierarchical relationship between the participants. This hierarchical relationship can be formal (manager-report, or senior-junior) but  often is informal (based on race, gender, background, etc.).
+A power dynamic is behavior in an interaction driven by a hierarchical relationship between the participants. This hierarchical relationship can be formal (manager-report, or senior-junior) but more often is informal (based on race, gender, background, etc.).
 
-Informal power dynamics based on characteristics that have historically been subject to structural oppression turn around & mimic that structural hierarchy. Men are  powerful than other genders; white people are  powerful than other races. And so forth.
+Informal power dynamics based on characteristics that have historically been subject to structural oppression turn around & mimic that structural hierarchy. Men are more powerful than other genders; white people are more powerful than other races. And so forth.
 
-Note that " powerful" in this context doesn't mean any kind of formal power; men are not officially  powerful than other genders.
+Note that "more powerful" in this context doesn't mean any kind of formal power; men are not officially more powerful than other genders.
 
 The power I'm talking about here is simply the power to _ignore the dynamic completely_.
 
@@ -93,7 +93,7 @@ Even as adults, we get messages that sometimes suggest ignoring power dynamics i
 
 The trouble with ignoring a power dynamic when you're on the upward side is that in doing so, you _reinforce_ the dynamic, even though in many situations (like pair programming) neutralizing it would be better.
 
-That's because from the upward side, you need to take real action to level the playing field. Due to the inherent nature of these power dynamics, folks on the upward side have do it. They are  powerful & better resourced, and IMO it is their moral responsibility.
+That's because from the upward side, you need to take real action to level the playing field. Due to the inherent nature of these power dynamics, folks on the upward side have do it. They are more powerful & better resourced, and IMO it is their moral responsibility.
 
 When you're on the upward side of a power imbalance & you want to level the field, ignoring (or denying) the tilt doesn't work. And if you place the burden on the downward side folks, you're asking them to both walk uphill AND figure out how to distribute power they don't have.
 
@@ -122,13 +122,13 @@ Three questions remain:
 * How do we neutralize the ones we're on the upper side of?
 * What does this have to do with homogeneity in agile? (I promise we're getting there)
 
-People who are on the upward side of a power dynamic often don't even notice it's there. Even  concerning is the fact that if they've been conditioned to think the playing field is already level (i.e., a 'meritocracy') then they'll often deny any such tilt exists.
+People who are on the upward side of a power dynamic often don't even notice it's there. Even more concerning is the fact that if they've been conditioned to think the playing field is already level (i.e., a 'meritocracy') then they'll often deny any such tilt exists.
 
 These denials are internalized often even by the folks who are running uphill. The place where you can see the tilt of the field is in broad statistical surveys: the pay gap. The wealth gap. Corporate diversity numbers. Promotion statistics. Glass ceilings & cliffs.
 
 That's the macro level. At the micro level, keeping these dynamics in mind and trying to neutralize the ones you're on the upward side of is a tricky and complicated skill. Here are a few rubrics I've used over the years, that may help you get started:
 
-**1. The  dynamics you're on the upward side of, the  you take cues from your pair.**
+**1. The more dynamics you're on the upward side of, the more you take cues from your pair.**
 
 Let them speak first. Be mindful of interrupting. Catch your reactions to their words on the way out, & do a post-processing pass to consider whether your reaction is due to the dynamic.
 
