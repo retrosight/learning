@@ -13,7 +13,7 @@
 ## Professional oriented musings
 
 * [Day To Day](https://medium.com/@charlieo/day-to-day-63e610719584)
-* [Heart | Tree | Star](https://medium.com/@charlieo/heart-tree-star-a3af328700c2)
+* [Heart, Tree, Star](https://medium.com/@charlieo/heart-tree-star-a3af328700c2)
 * [The Six Fs](https://medium.com/@charlieo/the-six-fs-fd6a87218d12)
 
 ## Personal writings
