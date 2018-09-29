@@ -3,6 +3,7 @@ I'd like to invite you to join me working towards a more inclusive environment w
 The following steps will:
 
 * Remove the terminology `master` from the repository.
+  * I will note it will not _completely_ remove the terminology from the GitHub interface -- but for most users (who can't see or edit Settings) it greatly reduces it's presence.
 * Add the Contributor Covenant from https://www.contributor-covenant.org/.
 
 I have done this for all of my repositories, both public and private, and hope you will as well.
@@ -28,6 +29,13 @@ git branch --set-upstream-to=origin/primary primary
 * Go through all of the steps here to set the default branch to the new branch created above: https://help.github.com/articles/setting-the-default-branch/
 * Click the Update button.
 * Click the "I understand, update the default branch." button.
+
+## Change the branch used for GitHub Pages to gh-pages
+
+> Note: After this step you will now have to merge your new branch to `gh-pages` to update the website generated via this feature.
+
+* Go through all of the steps here: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages
+* Choose the option for `gh-pages`.
 
 ## Delete the old branch in GitHub
 
