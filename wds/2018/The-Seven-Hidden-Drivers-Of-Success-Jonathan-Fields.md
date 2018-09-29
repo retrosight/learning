@@ -1,4 +1,4 @@
-# The 7 Hidden Drivers of Success
+# The Seven Hidden Drivers of Success
 
 Jonathan Fields | Wolrd Domination Summit 2018
 
