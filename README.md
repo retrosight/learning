@@ -1,3 +1,5 @@
+Click [here](./a-more-inclusive-repository.md) to take some steps in making your repository a more inclusive space.
+
 ## Learnings
 
 * [More on why agile / XP so often fails heterogenous teams](why-agile-xp-so-often-fails-heterogenous-teams-sarah-mei.md) by Sarah Mei
