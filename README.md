@@ -28,3 +28,7 @@ Click [here](./a-more-inclusive-repository.md) to take some steps in making your
 ---
 
 Please note that this project is released with a [Contributor Code of Conduct](./code-of-conduct.md). By participating in this project you agree to abide by its terms. Learn more at [https://www.contributor-covenant.org/](https://www.contributor-covenant.org/).
+
+## Interesting Links
+
+[Why Great Managers Matter](https://open.buffer.com/why-great-managers-matter/)
