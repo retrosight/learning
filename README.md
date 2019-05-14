@@ -25,10 +25,15 @@ Click [here](./a-more-inclusive-repository.md) to take some steps in making your
 * [Small Batch Artisan Southern Sweet Iced Tea](https://medium.com/@charlieo/small-batch-artisan-southern-sweet-iced-tea-9fe51b213826)
 * [Untitled](https://medium.com/@charlieo/i-am-gay-i-am-queer-283101d3e0f)
 
----
-
-Please note that this project is released with a [Contributor Code of Conduct](./code-of-conduct.md). By participating in this project you agree to abide by its terms. Learn more at [https://www.contributor-covenant.org/](https://www.contributor-covenant.org/).
+Take care of the people.  
+Provide them with a human centered process.  
+They will effectively manage the product.
 
 ## Interesting Links
 
 [Why Great Managers Matter](https://open.buffer.com/why-great-managers-matter/)
+[Imagineering and Technical Communication: A Match Made in Disneyland](https://www.slideshare.net/louprosperi1/imagineering-and-technical-communication-a-match-made-in-disneyland)
+
+---
+
+Please note that this project is released with a [Contributor Code of Conduct](./code-of-conduct.md). By participating in this project you agree to abide by its terms. Learn more at [https://www.contributor-covenant.org/](https://www.contributor-covenant.org/).
