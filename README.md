@@ -31,8 +31,9 @@ They will effectively manage the product.
 
 ## Interesting Links
 
-[Why Great Managers Matter](https://open.buffer.com/why-great-managers-matter/)
-[Imagineering and Technical Communication: A Match Made in Disneyland](https://www.slideshare.net/louprosperi1/imagineering-and-technical-communication-a-match-made-in-disneyland)
+* [Why Great Managers Matter](https://open.buffer.com/why-great-managers-matter/)
+* [Imagineering and Technical Communication: A Match Made in Disneyland](https://www.slideshare.net/louprosperi1/imagineering-and-technical-communication-a-match-made-in-disneyland)
+* [Tips to help you deal with feeling like an impostor](https://imgur.com/gallery/kJerzQR)
 
 ---
 
