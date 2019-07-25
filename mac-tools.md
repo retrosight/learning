@@ -34,6 +34,7 @@
 * [Brave](https://brave.com)
 * [Chrome](https://www.google.com/chrome/)
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
+* [BetterTouchTool, BetterSnapTool, BTT Remote, KeyboardCleanTool](https://folivora.ai)
 * [Trello](https://trello.com)
 * [Authy](https://authy.com)
 * [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator)
