@@ -31,6 +31,7 @@
 * [Spark](https://sparkmailapp.com) - Current fave.
 * [Audacity](http://www.audacityteam.org)
 * [Handbrake](https://handbrake.fr)
+  * `brew install libdvdcss`
 * [Brave](https://brave.com)
 * [Chrome](https://www.google.com/chrome/)
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
