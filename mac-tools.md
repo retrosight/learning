@@ -28,8 +28,10 @@
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
 * [Slack](https://slack.com)
 * [Airmail](http://airmailapp.com)
-* [Spark](https://sparkmailapp.com) - Current fave.
+* [Spark](https://sparkmailapp.com)
 * [Audacity](http://www.audacityteam.org)
+* [FFMPeg Library](https://www.ffmpeg.org)
+  * `brew install ffmpeg`
 * [Handbrake](https://handbrake.fr)
   * `brew install libdvdcss`
 * [Brave](https://brave.com)
