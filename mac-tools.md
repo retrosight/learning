@@ -32,6 +32,7 @@
 * [Audacity](http://www.audacityteam.org)
 * [FFMPeg Library](https://www.ffmpeg.org)
   * `brew install ffmpeg`
+  * Static for Audacity: https://lame.buanzo.org/#lameosx64bitdl
 * [Handbrake](https://handbrake.fr)
   * `brew install libdvdcss`
 * [Brave](https://brave.com)
