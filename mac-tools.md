@@ -6,6 +6,7 @@
 * [Kaleidoscope](http://www.kaleidoscopeapp.com)
 * [cUrl](https://curl.haxx.se)
 * [Homebrew](https://brew.sh)
+  * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * [iTerm2](http://www.iterm2.com)
   * `brew cask install iterm2`
 * [Zsh](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
