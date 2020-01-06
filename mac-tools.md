@@ -3,20 +3,37 @@
 > A comprehensive list of great MacOS software: https://github.com/jaywcjlove/awesome-mac
 
 * [Atom](https://atom.io)
+* [Kaleidoscope](http://www.kaleidoscopeapp.com)
+* [cUrl](https://curl.haxx.se)
+* [Homebrew](https://brew.sh)
+* [iTerm2](http://www.iterm2.com)
+  * `brew cask install iterm2`
+* [Zsh](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
+  * `brew install zsh`
+  * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+* [MindNode](http://mindnode.com)
+* [Slack](https://slack.com)
+* [Audacity](http://www.audacityteam.org)
+* [FFMPeg Library](https://www.ffmpeg.org)
+  * `brew install ffmpeg`
+  * Static for Audacity: https://lame.buanzo.org/#lameosx64bitdl
+* [Handbrake](https://handbrake.fr)
+  * `brew install libdvdcss`
+* [Brave](https://brave.com)
+* [Chrome](https://www.google.com/chrome/)
+* [BetterTouchTool, BetterSnapTool, BTT Remote, KeyboardCleanTool](https://folivora.ai)
+* [Authy](https://authy.com)
+* [Caffeine](http://lightheadsw.com/caffeine/) - Current fave.
+* [Add spaces to MacOS Dock](https://www.imore.com/add-space-your-mac-dock)
+  * `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock`
+---
 * [Brackets](http://brackets.io)
 * [Sublime Text](http://www.sublimetext.com/3)
 * [StackEdit](https://stackedit.io/app#)
 * [Eclipse](https://www.eclipse.org)
 * [Espresso](https://espressoapp.com)
 * [Xcode](https://developer.apple.com/xcode/)
-* [Kaleidoscope](http://www.kaleidoscopeapp.com)
 * [Insomnia](https://insomnia.rest)
-* [cUrl](https://curl.haxx.se)
-* [iTerm2](http://www.iterm2.com)
-  * `brew cask install iterm2`
-* [Zsh](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
-  * `brew install zsh`
-  * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
 * [NodeJS](https://nodejs.org/en/)
 * [Node Package Manager (NPM)](https://www.npmjs.com)
 * [Electron](http://electron.atom.io)
@@ -27,27 +44,11 @@
 * [Vagrant](https://www.vagrantup.com)
 * [MongoDB](https://www.mongodb.com)
 * [Gravit Designer](https://designer.io)
-* [MindNode](http://mindnode.com)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle)
-* [Slack](https://slack.com)
 * [Airmail](http://airmailapp.com)
 * [Spark](https://sparkmailapp.com)
-* [Audacity](http://www.audacityteam.org)
-* [FFMPeg Library](https://www.ffmpeg.org)
-  * `brew install ffmpeg`
-  * Static for Audacity: https://lame.buanzo.org/#lameosx64bitdl
-* [Handbrake](https://handbrake.fr)
-  * `brew install libdvdcss`
-* [Brave](https://brave.com)
-* [Chrome](https://www.google.com/chrome/)
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
-* [BetterTouchTool, BetterSnapTool, BTT Remote, KeyboardCleanTool](https://folivora.ai)
 * [Trello](https://trello.com)
-* [Authy](https://authy.com)
 * [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator)
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax)
-* [Caffeine](http://lightheadsw.com/caffeine/) - Current fave.
-* [Homebrew](https://brew.sh)
 * [Web Sequence Diagrams](https://www.websequencediagrams.com)
-* [Add spaces to MacOS Dock](https://www.imore.com/add-space-your-mac-dock)
-  * `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock`
