@@ -15,6 +15,7 @@
 * [iTerm2](http://www.iterm2.com)
   * `brew cask install iterm2`
 * [Zsh](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
+  * `brew install zsh`
 * [NodeJS](https://nodejs.org/en/)
 * [Node Package Manager (NPM)](https://www.npmjs.com)
 * [Electron](http://electron.atom.io)
