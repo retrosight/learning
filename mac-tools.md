@@ -20,6 +20,8 @@
   * Static for Audacity: https://lame.buanzo.org/#lameosx64bitdl
 * [Handbrake](https://handbrake.fr)
   * `brew install libdvdcss`
+* [YouTube Downloader](https://formulae.brew.sh/formula/youtube-dl)
+  * `brew install youtube-dl`
 * [Brave](https://brave.com)
 * [Chrome](https://www.google.com/chrome/)
 * [BetterTouchTool, BetterSnapTool, BTT Remote, KeyboardCleanTool](https://folivora.ai)
