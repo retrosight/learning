@@ -26,7 +26,7 @@
 * [Chrome](https://www.google.com/chrome/)
 * [BetterTouchTool, BetterSnapTool, BTT Remote, KeyboardCleanTool](https://folivora.ai)
 * [Authy](https://authy.com)
-* [Caffeine](http://lightheadsw.com/caffeine/) - Current fave.
+* [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) - Current fave.
 * [Add spaces to MacOS Dock](https://www.imore.com/add-space-your-mac-dock)
   * `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock`
 ---
