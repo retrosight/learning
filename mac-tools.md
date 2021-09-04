@@ -16,6 +16,7 @@
   * Shell Commands
     * Install shell commands to be able to do things like pick up shell environments when you launch atom from the terminal.
     * Atom > Install Shell Commands
+    * Open Atom and the current folder: `atom .`
   * Themes
     * [predawn-syntax](https://atom.io/themes/predawn-syntax)
       * `apm install predawn-syntax`
@@ -46,6 +47,7 @@
     * Run with profile = `CMD` + `SHIFT` + `k`
     * Configure Run Options: `CMD` + `SHIFT` + `i`
     * Run Atom Package: `CMD` + `SHIFT` + `p`
+    * beautify: `CONTROL` + `OPTION` + b
 * [Kaleidoscope](http://www.kaleidoscopeapp.com)
 * [cUrl](https://curl.haxx.se)
 * [Homebrew](https://brew.sh)
