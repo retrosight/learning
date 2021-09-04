@@ -3,6 +3,41 @@
 > A comprehensive list of great MacOS software: https://github.com/jaywcjlove/awesome-mac
 
 * [Atom](https://atom.io)
+  * Fonts
+    * [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
+    * [Victor Mono](https://rubjo.github.io/victor-mono/)
+      * `brew tap homebrew/cask-fonts`
+      * `brew install --cask font-victor-mono`
+  * Editor Settings
+    * Scroll Past End = Enable
+    * Soft Tabs = Enable
+  * Packages
+    * [script](https://atom.io/packages/script)
+      * `apm install script`
+    * [predawn syntax](https://atom.io/themes/predawn-syntax)
+      * `apm install predawn-syntax`
+    * [file-icons](https://atom.io/packages/file-icons)
+      * `apm install --production file-icons`
+    * [minimap](https://atom.io/packages/minimap)
+      * `apm install minimap`
+  * Packages: Language Specific
+    * [python-autopep8](https://atom.io/packages/python-autopep8)
+      * `pip install autopep8`
+      * `apm install python-autopep8`
+    * [linter-flake8](https://atom.io/packages/linter-flake8)
+       * `pip install flake8`
+       * `apm install linter-flake8`
+    * Set python3 as default for run.
+      * Preferences > Packages > Script > Settings > View Code
+      * Edit /lib/grammars/python.js
+        * export const Python > Selection Based > `command: "python3"`
+        * export const Python > File Based > `command: "python3"`
+    * (Optional) [autocomplete-python](https://atom.io/packages/autocomplete-python)
+  * Shortcuts
+    * Run: `CMD` + `i`
+    * Run with profile = `CMD` + `SHIFT` + `k`
+    * Configure Run Options: `CMD` + `SHIFT` + `i`
+    * Run Atom Package: `CMD` + `SHIFT` + `p`
 * [Kaleidoscope](http://www.kaleidoscopeapp.com)
 * [cUrl](https://curl.haxx.se)
 * [Homebrew](https://brew.sh)
