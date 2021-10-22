@@ -75,13 +75,13 @@
 * Avoid any statement of finality about the code you write.
   * If an interviewer asks 'is this code the best approach' try to redirect the conversation towards your desire to learn: "As with most solutions, there are multiple ways to accomplish the same task, and this is but one of many possibilities. I am interested to hear your thoughts about the solution I have provided, to expand my learning, fill knowledge gaps and continue my quest to be the best developer I can possibly be which is a lifelong endeavor."
 
-  ## Understand you have better odds at literally any gambling game.
+## Understand you have better odds at literally any gambling game.
 
-  * Getting 3-5 almost surely complete strangers + hiring manager (who is more than likely also a stranger) to like you with only a single hour of interaction each: Next to impossible.
-  * In most cases, it only takes one strongly opinionated 'no hire' interviewer to scuttle the interviewer loop.
-  * Assuming you are an ethical person doing your best: Any negative feedback an interviewer has about you is 90% about them and only about 10% about you.
-    * An hour isn't long enough to get to know a person well, at all.
-  * The interviewer is having a bad day (or a good one) and you won't know -- and the outcome is based on the circumstances for the interviewer, not how well you did during the interview.
-  * Net: There isn't much you can control about an interview loop -- so might as well use this knowledge (and these tips) to simply be yourself and "let the chips fall where they may".
-    * In other words, simply accept the outcome during each hour of the interview loop without trying to change the outcome.
-    * This takes the most zen / patience / detachment from the result. It takes practice AND allows the 'real you' to shine throughout the interview.
+* Getting 3-5 almost surely complete strangers + hiring manager (who is more than likely also a stranger) to like you with only a single hour of interaction each: Next to impossible.
+* In most cases, it only takes one strongly opinionated 'no hire' interviewer to scuttle the interviewer loop.
+* Assuming you are an ethical person doing your best: Any negative feedback an interviewer has about you is 90% about them and only about 10% about you.
+  * An hour isn't long enough to get to know a person well, at all.
+* The interviewer is having a bad day (or a good one) and you won't know -- and the outcome is based on the circumstances for the interviewer, not how well you did during the interview.
+* Net: There isn't much you can control about an interview loop -- so might as well use this knowledge (and these tips) to simply be yourself and "let the chips fall where they may".
+  * In other words, simply accept the outcome during each hour of the interview loop without trying to change the outcome.
+  * This takes the most zen / patience / detachment from the result. It takes practice AND allows the 'real you' to shine throughout the interview.
