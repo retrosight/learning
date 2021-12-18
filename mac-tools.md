@@ -59,6 +59,10 @@
 * [Zsh](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
   * `brew install zsh`
   * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+* Git
+  * `brew install git`
+  * `brew upgrade git`
+  * `export PATH=/usr/local/bin:$PATH`
 * [Authy](https://authy.com)
 
 ---
