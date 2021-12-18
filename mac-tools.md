@@ -50,6 +50,8 @@
     * beautify: `CONTROL` + `OPTION` + b
 * [Kaleidoscope](http://www.kaleidoscopeapp.com)
 * [cUrl](https://curl.haxx.se)
+  * `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" 2> /dev/null`
+  * `brew install curl`
 * [Homebrew](https://brew.sh)
   * `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * [iTerm2](http://www.iterm2.com)
@@ -57,9 +59,10 @@
 * [Zsh](https://medium.com/swlh/power-up-your-terminal-using-oh-my-zsh-iterm2-c5a03f73a9fb)
   * `brew install zsh`
   * `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+* [Authy](https://authy.com)
 
 ---
-* [Authy](https://authy.com)
+
 * [Web Sequence Diagrams](https://www.websequencediagrams.com)
 * [Brackets](http://brackets.io)
 * [Sublime Text](http://www.sublimetext.com/3)
@@ -83,7 +86,6 @@
 * [Brave](https://brave.com)
 * [Chrome](https://www.google.com/chrome/)
 * [BetterTouchTool, BetterSnapTool, BTT Remote, KeyboardCleanTool](https://folivora.ai)
-* [SizeUp](http://www.irradiatedsoftware.com/sizeup/)
 * [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) - Current fave.
 * [Trello](https://trello.com)
 * [Add spaces to MacOS Dock](https://www.imore.com/add-space-your-mac-dock)
