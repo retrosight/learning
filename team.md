@@ -1,6 +1,7 @@
-We are looking for an experienced Principal Technical Program Manager with expertise in Identity and Access Management (IAM) to join our team here in Oracle Cloud Infrastructure (OCI) Identity.
+## Openings
 
-https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/128671/
+* Experienced Principal Technical Program Manager with expertise in Identity and Access Management (IAM) to join our team here in Oracle Cloud Infrastructure (OCI) Identity. To apply visit https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/128671/.
+* Early career stage Technical Program Manager with 1-3 years experience. Job posting coming soon! Reach out to Charlie for more details.
 
 ## Our Team
 
