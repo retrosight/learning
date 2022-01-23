@@ -38,6 +38,10 @@ https://www.linkedin.com/in/heatherlisesullivan/
 
 https://www.linkedin.com/in/michael-barela-40123293/
 
+### Carol
+
+https://www.linkedin.com/in/carolwinget/
+
 # Our Roles
 
 All of our TPM roles are remote friendly -- work from anywhere in the United States.
@@ -53,8 +57,6 @@ There is a strong culture of valuing humans here -- embodied in the Oracle Cloud
 # The Manager
 
 Well, that would be me. ;-)
-
-<img src="https://media-exp1.licdn.com/dms/image/C4E03AQEAdD_OkM2ujw/profile-displayphoto-shrink_800_800/0/1517677072798?e=1641427200&v=beta&t=uLUPusFZASpTEDf9EpdS3DUBmd4bBzlHZluLEIZLRXk" width="100px">
 
 https://www.linkedin.com/in/charliemowen/
 
