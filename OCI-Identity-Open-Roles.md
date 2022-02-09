@@ -15,7 +15,6 @@ There is a strong culture of valuing humans here -- embodied in the Oracle Cloud
 Location|Role|Apply URL
 ---|---|---
 India|Software Development Snr Manager|[121592](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121592)
-India|Software Development Snr Director|[137188](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/137188)
 India|Software Developer 2|[146996](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/146996)
 India|Software Developer 2|[147019](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/147019)
 India|Software Developer 3|[121570](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/121570)
