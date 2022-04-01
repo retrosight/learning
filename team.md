@@ -43,6 +43,26 @@ https://www.linkedin.com/in/michael-barela-40123293/
 
 https://www.linkedin.com/in/carolwinget/
 
+### Ethan
+
+https://www.linkedin.com/in/ethantrooskinzoller/
+
+### Leslie
+
+https://www.linkedin.com/in/leslie-fowler-414b882a/
+
+### Mary
+
+https://www.linkedin.com/in/mary-chetelat-4703a822b/
+
+### Marisa
+
+https://www.linkedin.com/in/marisamitchell/
+
+### Tricia
+
+https://www.linkedin.com/in/triciafisk/
+
 # Our Roles
 
 All of our TPM roles are remote friendly -- work from anywhere in the United States.

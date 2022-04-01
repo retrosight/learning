@@ -92,10 +92,12 @@
 * [BetterTouchTool, BetterSnapTool, BTT Remote, KeyboardCleanTool](https://folivora.ai)
 * [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) - Current fave.
 * [Trello](https://trello.com)
-* [Add spaces to MacOS Dock](https://www.imore.com/add-space-your-mac-dock)
+* Add spaces to MacOS Dock
   * `defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}'; killall Dock`
 * Show hidden files and folders
   * `defaults write com.apple.finder AppleShowAllFiles -bool TRUE;killall Finder`
+* Change the location for screenshots
+  * `defaults write com.apple.screencapture location /Users/charlie/Downloads;killall SystemUIServer`
 
 ## Creativity
 
