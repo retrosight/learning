@@ -98,6 +98,7 @@
   * `defaults write com.apple.finder AppleShowAllFiles -bool TRUE;killall Finder`
 * Change the location for screenshots
   * `defaults write com.apple.screencapture location /Users/charlie/Downloads;killall SystemUIServer`
+* [RDM](https://github.com/avibrazil/RDM) - This is a tool that lets you use MacBook Pro Retina's highest and unsupported resolutions.
 
 ## Creativity
 
