@@ -4,50 +4,12 @@
 
 ## Developer
 
-* [Atom](https://atom.io)
-  * Fonts
-    * [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
-    * [Victor Mono](https://rubjo.github.io/victor-mono/)
-      * `brew tap homebrew/cask-fonts`
-      * `brew install --cask font-victor-mono`
-  * Editor Settings
-    * Scroll Past End = Enable
-    * Soft Tabs = Enable
-  * Shell Commands
-    * Install shell commands to be able to do things like pick up shell environments when you launch atom from the terminal.
-    * Atom > Install Shell Commands
-    * Open Atom and the current folder: `atom .`
-  * Themes
-    * [predawn-syntax](https://atom.io/themes/predawn-syntax)
-      * `apm install predawn-syntax`
-  * Packages
-    * [script](https://atom.io/packages/script)
-      * `apm install script`
-    * [file-icons](https://atom.io/packages/file-icons)
-      * `apm install --production file-icons`
-    * [minimap](https://atom.io/packages/minimap)
-      * `apm install minimap`
-    * [atom-beautify](https://atom.io/packages/atom-beautify)
-      * `apm install atom-beautify`
-  * Packages - Python
-    * [python-autopep8](https://atom.io/packages/python-autopep8)
-      * `pip install autopep8`
-      * `apm install python-autopep8`
-    * [linter-flake8](https://atom.io/packages/linter-flake8)
-       * `pip install flake8`
-       * `apm install linter-flake8`
-    * Set python3 as default for run.
-      * Preferences > Packages > Script > Settings > View Code
-      * Edit /lib/grammars/python.js
-        * export const Python > Selection Based > `command: "python3"`
-        * export const Python > File Based > `command: "python3"`
-    * (Optional) [autocomplete-python](https://atom.io/packages/autocomplete-python)
-  * Keyboard Shortcuts
-    * Run: `CMD` + `i`
-    * Run with profile = `CMD` + `SHIFT` + `k`
-    * Configure Run Options: `CMD` + `SHIFT` + `i`
-    * Run Atom Package: `CMD` + `SHIFT` + `p`
-    * beautify: `CONTROL` + `OPTION` + b
+* [Visual Studio Code](https://code.visualstudio.com)
+* Fonts
+  * [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
+  * [Victor Mono](https://rubjo.github.io/victor-mono/)
+    * `brew tap homebrew/cask-fonts`
+    * `brew install --cask font-victor-mono`
 * [Kaleidoscope](http://www.kaleidoscopeapp.com)
 * [Homebrew](https://brew.sh)
   * `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
