@@ -83,3 +83,63 @@
   * If an interviewer asks 'is this code the best approach' be honest about your familiarity with the problem space, solicit feedback on optimizations the interviewer sees, and invite the interviewer to share their preferred paradigm or approach.
 
 > **Charlie Owen** | https://cobaltleaf.com | https://www.linkedin.com/in/charliemowen/ | https://github.com/retrosight/learning/blob/main/interview-tips.md
+
+---
+
+The hiring manager (or her counterpart depending on availability) will be focusing on experience with program management, people management & cross communication.
+
+* Know the company, our culture and values (https://lifeatexpediagroup.com/)
+* Why Expedia? Why now?
+* Know the role – Look up the job description and have a copy available during the interview
+* The "Close" - Write up a Thank You letter. You can start creating a generic letter now and then fill in some specifics, (I enjoyed our conversation about X, thank you for sharing Y about yourself). **BONUS** If you feel like you didn’t cover a topic well or emphasize a skill, the Thank You letter is the place to add it in. “Thank you for our conversation and for all the nice stuff we talked about. One thing I had hoped to get across was….”.
+ 
+Interview Preparation – All the rest
+* If you are asked "Tell me about yourself" your response should be "Where would you like me to begin?" Reason: Maybe they want to know about you as a person, maybe they want to get to the nuts and bolts of your professional experience - this response gives you the direction to take.
+* Verbal Communication – Please speak slowly, clearly and concisely. This may be the only opportunity you have to achieve this job.
+* When the job/position is being described to you TAKE NOTES. Reason: when the interviewer has finished you can respond point-by-point.
+  * "That's great because as you can see from my resume I have...".
+  * You are letting them know you have exactly what they are looking for.
+  * You might want to think about some projects that you've used the technologies they're looking for and be prepared to give examples of how you used each technology and/or skill.
+ 
+Yes, and - No, but...
+* When/if you are asked if you have a particular skill set make sure to elaborate.
+* FOR EXAMPLE:
+  * "Do you have business requirements modeling experience? "Yes, and since I've used it extensively for more than 4 years I feel it is one of my strongest skills."
+  * "Do you have experience with business requirements modeling?" "No, but I've used processes that are similar such as..." or "No, but other process have been used on my projects." 
+ 
+Achievements / Challenges
+* Think of two professional achievements and two challenges that you've had and be prepared to talk about them - how you were able to achieve them and overcome the challenges.
+* If you can, think of projects you've had that have used the same technologies the client company uses.
+* Caution: Be well-rounded not one-sided. Think of examples where you worked independently AND within a team. You don't want to portray that you work best independently or that you can't work independently. Same with teamwork.
+ 
+Additional TIPS:
+Don’t bad mouth former managers, this looks very bad in an interview.
+Don’t inquire about time off in the interview process. It tells the manager that you are not available to the manager.
+Make sure your cell phone is turned off if you aren’t using it.
+Make sure to speak clearly.
+Make sure to use specific and details answers to any technical questions she asks you. We usually receive good feedback when people use specific examples that relate to the project.
+ 
+Remember to utilize the STAR Theory: 1) Situation, 2) Task, 3) Action and 4) Result
+The Star Theory is a tool used to assist people in relating past experiences. This will be a critical tool when you are preparing for your interview, especially when preparing to the questions listed above. In short, it will give you a format in which to prepare and to insure that your responses hit on what is the most important.
+ 
+Situation/Task: Be brief and direct when relating past situations and or tasks. At this time make sure and convey the magnitude or the significance of the task. 
+Action: When faced with the situation or task, what was the “action” you took? What did you do? What was your specific role if this was a team interaction? Please note that you should be using more “I’s” than “We’s”. They want to know what you did and what decisions you made. 
+Result: What was the “Result” of the action you took? More importantly what was the IMPACT of your action on the overall organization? In other words, “How did it ultimately affect the company?”
+ 
+Questions - have some prepared!! Here are some suggestions:
+What will I be doing my first week/month? The interviewer will be visualizing you at the desk doing the job.
+What are some of the objectives you would like to see accomplished in this job? 
+What is most pressing? What would you like to have done in the next 6-8 weeks? 
+What are some of the long term objectives you would like to see completed? 
+What are some of the more difficult problems one would have to face in this position? 
+What level of freedom would I have in determining my own work objectives, deadlines, and methods of measurement? 
+How will you measure performance? 
+What’s your leadership style? What kind of people work best for you? 
+What’s the company’s culture or personality? What’s it like to work here? 
+What’s the profile of the ideal candidate?
+In what ways has this organization been most successful in terms of products and services over the years? What significant changes do you foresee in the near future? 
+Questions related to technology, processes, team size, or the project that were not addressed.
+Based upon what you know of me so far, how do you see me fitting in? Again, the interviewer will be visualizing you in the chair and at the desk.
+Have I provided enough information for you so that you feel comfortable with me being able to perform this position? 
+ 
+At the end of the interview - let them know you want the job!!
