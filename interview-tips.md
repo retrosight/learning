@@ -82,8 +82,6 @@
 * Avoid any statement of finality about the code you write.
   * If an interviewer asks 'is this code the best approach' be honest about your familiarity with the problem space, solicit feedback on optimizations the interviewer sees, and invite the interviewer to share their preferred paradigm or approach.
 
-> **Charlie Owen** | https://cobaltleaf.com | https://www.linkedin.com/in/charliemowen/ | https://github.com/retrosight/learning/blob/main/interview-tips.md
-
 ---
 
 The hiring manager (or her counterpart depending on availability) will be focusing on experience with program management, people management & cross communication.
@@ -143,3 +141,5 @@ Based upon what you know of me so far, how do you see me fitting in? Again, the 
 Have I provided enough information for you so that you feel comfortable with me being able to perform this position? 
  
 At the end of the interview - let them know you want the job!!
+
+> **Charlie Owen** | https://cobaltleaf.com | https://www.linkedin.com/in/charliemowen/ | https://github.com/retrosight/learning/blob/main/interview-tips.md
