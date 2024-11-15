@@ -29,28 +29,18 @@
 
 ---
 
-* [Web Sequence Diagrams](https://www.websequencediagrams.com)
-* [Brackets](http://brackets.io)
-* [Sublime Text](http://www.sublimetext.com/3)
-* [StackEdit](https://stackedit.io/app#)
-* [Eclipse](https://www.eclipse.org)
 * [Xcode](https://developer.apple.com/xcode/)
 * [NodeJS](https://nodejs.org/en/)
 * [Node Package Manager (NPM)](https://www.npmjs.com)
-* [Electron](http://electron.atom.io)
 * [Git + GitHub](https://help.github.com/en/articles/set-up-git)
 * [GitHub Desktop](https://desktop.github.com)
 * [Docker](https://www.docker.com)
-* [Parallels](http://www.parallels.com)
-* [Vagrant](https://www.vagrantup.com)
 * [MongoDB](https://www.mongodb.com)
 
 ## Productivity
 
 * [MindNode](http://mindnode.com)
 * [Slack](https://slack.com)
-* [Brave](https://brave.com)
-* [Chrome](https://www.google.com/chrome/)
 * [BetterTouchTool, BetterSnapTool, BTT Remote, KeyboardCleanTool](https://folivora.ai)
 * [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) - Current fave.
 * [Trello](https://trello.com)
@@ -72,4 +62,4 @@
   * `brew install libdvdcss`
 * [YouTube Downloader](https://youtube-dl.org)
   * `brew install youtube-dl`
-* [Gravit Designer](https://designer.io)
+* [Affinity Designer, Photo, and Publisher](https://affinity.serif.com)
